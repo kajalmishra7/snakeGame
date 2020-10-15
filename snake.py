@@ -1,10 +1,12 @@
+#all modules req
+
 import turtle
 import time
 import random
 
 delay=0.1
 window = turtle.Screen()
-window.title("Snake Game by rjl")
+window.title("Snake Game")
 window.bgcolor("cyan")
 window.setup(width = 600,height = 600)
 window.tracer(0)
